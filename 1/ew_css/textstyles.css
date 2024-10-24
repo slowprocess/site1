@@ -1,0 +1,7 @@
+.para1{font-size: 0; text-align:left; padding-bottom:11px; margin-top:0px; padding-top:0px;}
+.linkStyle_2{color:#000000; text-decoration:none; /* 0 1 #00F900 #919191 #5D5D5D */}
+.linkStyle_2:visited{color:#919191; text-decoration:underline;}
+.linkStyle_2:hover{color:#5D5D5D; text-decoration:none;}
+a.outerlink{text-decoration:none}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
